@@ -16,7 +16,7 @@
 ## ⚙️ مراحل نصب و اجرا
 
 1. مخزن را کلون کنید:
-   git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Ayafat/Anahid_Food.git
 
    2.وارد پوشه پروژه شوید:
    cd <نام_پوشه>
